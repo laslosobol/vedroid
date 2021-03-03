@@ -1,0 +1,16 @@
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\bin\Debug\net5.0\RubeGoldberg.exe
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\bin\Debug\net5.0\RubeGoldberg.deps.json
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\bin\Debug\net5.0\RubeGoldberg.runtimeconfig.json
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\bin\Debug\net5.0\RubeGoldberg.runtimeconfig.dev.json
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\bin\Debug\net5.0\RubeGoldberg.dll
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\bin\Debug\net5.0\ref\RubeGoldberg.dll
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\bin\Debug\net5.0\RubeGoldberg.pdb
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\obj\Debug\net5.0\RubeGoldberg.csprojAssemblyReference.cache
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\obj\Debug\net5.0\RubeGoldberg.GeneratedMSBuildEditorConfig.editorconfig
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\obj\Debug\net5.0\RubeGoldberg.AssemblyInfoInputs.cache
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\obj\Debug\net5.0\RubeGoldberg.AssemblyInfo.cs
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\obj\Debug\net5.0\RubeGoldberg.csproj.CoreCompileInputs.cache
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\obj\Debug\net5.0\RubeGoldberg.dll
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\obj\Debug\net5.0\ref\RubeGoldberg.dll
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\obj\Debug\net5.0\RubeGoldberg.pdb
+B:\CSharp\vedroid\Vedroid.Back\RubeGoldberg\obj\Debug\net5.0\RubeGoldberg.genruntimeconfig.cache
