@@ -6,7 +6,8 @@ namespace RubeGoldberg
     {
         public static string Concatenate(params string[] strings)
         {
-            return strings.Length == 0 ? "Empty" : strings.Aggregate("", (current, substring) => current + $"{substring}");
+            return strings.Length == 0 ? "Empty" : strings.Aggregate("", (current, substring) 
+                => current + $"{substring}");
         }
     }
 }
