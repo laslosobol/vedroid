@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vedroid.BLL", "Vedroid.BLL\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubeGoldberg", "RubeGoldberg\RubeGoldberg.csproj", "{98A31F28-2A38-467C-BBB9-F97C083EC79F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vedroid.Api", "Vedroid.Api\Vedroid.Api.csproj", "{227A5533-F4BD-440A-AA22-7BA3347F7DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vedroid.BLL.Tests", "Vedroid.BLL.Tests\Vedroid.BLL.Tests.csproj", "{7F124666-D05A-43C4-B8AE-95592D9B2EBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{98A31F28-2A38-467C-BBB9-F97C083EC79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98A31F28-2A38-467C-BBB9-F97C083EC79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98A31F28-2A38-467C-BBB9-F97C083EC79F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{227A5533-F4BD-440A-AA22-7BA3347F7DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227A5533-F4BD-440A-AA22-7BA3347F7DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227A5533-F4BD-440A-AA22-7BA3347F7DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227A5533-F4BD-440A-AA22-7BA3347F7DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F124666-D05A-43C4-B8AE-95592D9B2EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F124666-D05A-43C4-B8AE-95592D9B2EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F124666-D05A-43C4-B8AE-95592D9B2EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F124666-D05A-43C4-B8AE-95592D9B2EBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

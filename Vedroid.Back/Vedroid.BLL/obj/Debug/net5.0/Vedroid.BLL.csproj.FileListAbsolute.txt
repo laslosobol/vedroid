@@ -1,0 +1,15 @@
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\bin\Debug\net5.0\Vedroid.BLL.deps.json
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\bin\Debug\net5.0\Vedroid.BLL.dll
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\bin\Debug\net5.0\ref\Vedroid.BLL.dll
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\bin\Debug\net5.0\Vedroid.BLL.pdb
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\bin\Debug\net5.0\Vedroid.DAL.dll
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\bin\Debug\net5.0\Vedroid.DAL.pdb
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\obj\Debug\net5.0\Vedroid.BLL.csprojAssemblyReference.cache
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\obj\Debug\net5.0\Vedroid.BLL.GeneratedMSBuildEditorConfig.editorconfig
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\obj\Debug\net5.0\Vedroid.BLL.AssemblyInfoInputs.cache
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\obj\Debug\net5.0\Vedroid.BLL.AssemblyInfo.cs
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\obj\Debug\net5.0\Vedroid.BLL.csproj.CoreCompileInputs.cache
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\obj\Debug\net5.0\Vedroid.BLL.csproj.CopyComplete
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\obj\Debug\net5.0\Vedroid.BLL.dll
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\obj\Debug\net5.0\ref\Vedroid.BLL.dll
+B:\CSharp\vedroid\Vedroid.Back\Vedroid.BLL\obj\Debug\net5.0\Vedroid.BLL.pdb
