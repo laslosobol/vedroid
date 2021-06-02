@@ -211,3 +211,14 @@ B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\stamp\_ConvertResour
 B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\res\drawable\android_1.xml
+B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\res\drawable\frame_5.xml
+B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\res\drawable\button.xml
+B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\res\drawable\frame_33.xml
+B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\res\drawable\frame_35.xml
+B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\res\drawable\button_1.xml
+B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\res\drawable\button_2.xml
+B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\res\drawable\frame_36.xml
+B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\res\drawable\picture_1.xml
+B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\res\drawable\picture_2.xml
+B:\CSharp\vedroid\Vedroid.Front\Vedroid.Front\obj\Debug\110\res\layout\main.xml

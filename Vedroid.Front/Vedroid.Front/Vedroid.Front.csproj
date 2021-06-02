@@ -31,9 +31,10 @@
         <DefineConstants>DEBUG;TRACE</DefineConstants>
         <ErrorReport>prompt</ErrorReport>
         <WarningLevel>4</WarningLevel>
-        <AndroidUseSharedRuntime>True</AndroidUseSharedRuntime>
+        <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
         <AndroidLinkMode>None</AndroidLinkMode>
         <EmbedAssembliesIntoApk>False</EmbedAssembliesIntoApk>
+        <AndroidSupportedAbis>armeabi-v7a;x86;arm64-v8a;x86_64</AndroidSupportedAbis>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
         <DebugSymbols>True</DebugSymbols>
@@ -49,34 +50,59 @@
         <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
     </PropertyGroup>
     <ItemGroup>
-        <Reference Include="System"/>
-        <Reference Include="System.Xml"/>
-        <Reference Include="System.Core"/>
-        <Reference Include="Mono.Android"/>
+        <Reference Include="System" />
+        <Reference Include="System.Xml" />
+        <Reference Include="System.Core" />
+        <Reference Include="Mono.Android" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="MainActivity.cs"/>
-        <Compile Include="Resources\Resource.Designer.cs"/>
-        <Compile Include="Properties\AssemblyInfo.cs"/>
+        <Compile Include="MainActivity.cs" />
+        <Compile Include="Resources\Resource.Designer.cs" />
+        <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
-        <None Include="Resources\AboutResources.txt"/>
-        <None Include="Properties\AndroidManifest.xml"/>
-        <None Include="Assets\AboutAssets.txt"/>
+        <None Include="Resources\AboutResources.txt" />
+        <None Include="Properties\AndroidManifest.xml" />
+        <None Include="Assets\AboutAssets.txt" />
     </ItemGroup>
     <ItemGroup>
+        <AndroidResource Include="Resources\drawable\android_1.xml" />
+        <AndroidResource Include="Resources\drawable\android_2.xml" />
+        <AndroidResource Include="Resources\drawable\button.xml" />
+        <AndroidResource Include="Resources\drawable\button_1.xml" />
+        <AndroidResource Include="Resources\drawable\button_2.xml" />
+        <AndroidResource Include="Resources\drawable\bx_search_s.xml" />
+        <AndroidResource Include="Resources\drawable\frame_11.xml" />
+        <AndroidResource Include="Resources\drawable\frame_15.xml" />
+        <AndroidResource Include="Resources\drawable\frame_18.xml" />
+        <AndroidResource Include="Resources\drawable\frame_24.xml" />
+        <AndroidResource Include="Resources\drawable\frame_33.xml" />
+        <AndroidResource Include="Resources\drawable\frame_35.xml" />
+        <AndroidResource Include="Resources\drawable\frame_36.xml" />
+        <AndroidResource Include="Resources\drawable\frame_5.xml" />
+        <AndroidResource Include="Resources\drawable\menucard.xml" />
+        <AndroidResource Include="Resources\drawable\mic.xml" />
+        <AndroidResource Include="Resources\drawable\mic_1.xml" />
+        <AndroidResource Include="Resources\drawable\picture_1.xml" />
+        <AndroidResource Include="Resources\drawable\picture_2.xml" />
+        <AndroidResource Include="Resources\drawable\rectangle_1.xml" />
+        <AndroidResource Include="Resources\drawable\search.xml" />
+        <AndroidResource Include="Resources\drawable\search_bg.xml" />
+        <AndroidResource Include="Resources\drawable\search_field.xml" />
+        <AndroidResource Include="Resources\drawable\vector.xml" />
         <AndroidResource Include="Resources\layout\activity_main.axml">
             <SubType>Designer</SubType>
         </AndroidResource>
-        <AndroidResource Include="Resources\values\colors.xml"/>
-        <AndroidResource Include="Resources\values\ic_launcher_background.xml"/>
-        <AndroidResource Include="Resources\values\strings.xml"/>
-        <AndroidResource Include="Resources\values\styles.xml"/>
+        <AndroidResource Include="Resources\layout\drink_menu.xml" />
+        <AndroidResource Include="Resources\values\colors.xml" />
+        <AndroidResource Include="Resources\values\ic_launcher_background.xml" />
+        <AndroidResource Include="Resources\values\strings.xml" />
+        <AndroidResource Include="Resources\values\styles.xml" />
     </ItemGroup>
     <ItemGroup>
-        <PackageReference Include="Xamarin.Android.Support.Design" Version="28.0.0.3"/>
+        <PackageReference Include="Xamarin.Android.Support.Design" Version="28.0.0.3" />
     </ItemGroup>
-    <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets"/>
+    <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
       Other similar extension points exist, see Microsoft.Common.targets.
       <Target Name="BeforeBuild">
