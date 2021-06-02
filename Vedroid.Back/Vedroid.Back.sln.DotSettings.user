@@ -2,5 +2,8 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17d81057_002D8345_002D415f_002D9311_002D93b088b90f97/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DrinkMapperTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7F124666-D05A-43C4-B8AE-95592D9B2EBF::net5.0::Vedroid.BLL.Tests.Tests.DrinkMapperTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5B445561-B50B-4EBA-A63E-318B7C08B228::net5.0::Vedroid.Api.Tests.Tests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5B445561-B50B-4EBA-A63E-318B7C08B228::net5.0::Vedroid.Api.Tests.Tests.GetAllDrinksTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5B445561-B50B-4EBA-A63E-318B7C08B228::net5.0::Vedroid.Api.Tests.Tests.EbanutPivandepalaTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

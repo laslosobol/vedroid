@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vedroid.Api", "Vedroid.Api\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vedroid.BLL.Tests", "Vedroid.BLL.Tests\Vedroid.BLL.Tests.csproj", "{7F124666-D05A-43C4-B8AE-95592D9B2EBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vedroid.Api.Tests", "Vedroid.Api.Tests\Vedroid.Api.Tests.csproj", "{5B445561-B50B-4EBA-A63E-318B7C08B228}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{7F124666-D05A-43C4-B8AE-95592D9B2EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F124666-D05A-43C4-B8AE-95592D9B2EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F124666-D05A-43C4-B8AE-95592D9B2EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B445561-B50B-4EBA-A63E-318B7C08B228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B445561-B50B-4EBA-A63E-318B7C08B228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B445561-B50B-4EBA-A63E-318B7C08B228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B445561-B50B-4EBA-A63E-318B7C08B228}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
