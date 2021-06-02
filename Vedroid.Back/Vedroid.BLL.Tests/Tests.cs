@@ -26,11 +26,5 @@ namespace Vedroid.BLL.Tests
             //Assert
             Assert.AreEqual(expected, actual);
         }
-        
-        [Test]
-        public void SnackServiceGetSnackByIdTest()
-        {
-            Assert.True(true);
-        }
     }
 }

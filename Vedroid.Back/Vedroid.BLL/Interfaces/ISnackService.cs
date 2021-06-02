@@ -16,5 +16,9 @@ namespace Vedroid.BLL.Interfaces
         Task<SnackDto> GetSnackByIdAsync(int snackId);
 
         Task<IEnumerable<SnackDto>> GetAllSnacksAsync();
+
+        Task<IEnumerable<SnackDto>> GetSnacksByType(string type);
+
+        Task<IEnumerable<SnackDto>> GetSnacksByName(string name);
     }
 }

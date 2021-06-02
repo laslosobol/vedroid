@@ -13,11 +13,14 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using Vedroid.BLL;
+using Vedroid.BLL.Interfaces;
+using Vedroid.BLL.Services;
 using Vedroid.DAL;
 using Vedroid.DAL.Context;
 using Vedroid.DAL.Entities;
 using Vedroid.DAL.Interfaces;
 using Vedroid.DAL.Repositories;
+using Vedroid.DAL.UnitOfWork;
 
 namespace Vedroid.Api
 {
@@ -40,9 +43,11 @@ namespace Vedroid.Api
             });
 
             var connectionString = "Host=localhost;Port=5432;Database=vedroid;Username=postgres;Password=sobol";
-
-            services.RegisterDalServices(connectionString);
-            services.RegisterBllServices();
+            services.AddDbContext<ApplicationDbContext>(options =>
+                options.UseNpgsql(connectionString));
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IDrinkService, DrinkService>();
+            services.AddScoped<ISnackService, SnackService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

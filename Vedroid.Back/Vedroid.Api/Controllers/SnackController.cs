@@ -2,16 +2,17 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Vedroid.BLL.DTO;
+using Vedroid.BLL.Interfaces;
 using Vedroid.BLL.Services;
 
 namespace Vedroid.Api.Controllers
 {
-    [Controller]
+    [ApiController]
     [Route("/snack")]
     public class SnackController : Controller
     {
-        private readonly SnackService _snackService;
-        public SnackController(SnackService snackService)
+        private readonly ISnackService _snackService;
+        public SnackController(ISnackService snackService)
         {
             _snackService = snackService;
         }
@@ -44,5 +45,11 @@ namespace Vedroid.Api.Controllers
         {
             await _snackService.UpdateSnackAsync(snackDto);
         }
+        
+        [HttpGet("get/{type}")]
+        public async Task<IEnumerable<SnackDto>> GetSnacksByType(string type) => await _snackService.GetSnacksByType(type);
+
+        [HttpGet("get/{name}")]
+        public async Task<IEnumerable<SnackDto>> GetSnacksByName(string name) => await _snackService.GetSnacksByName(name);
     }
 }

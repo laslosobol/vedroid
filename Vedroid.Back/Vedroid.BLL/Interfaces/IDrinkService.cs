@@ -18,5 +18,9 @@ namespace Vedroid.BLL.Interfaces
         Task<DrinkDto> GetDrinkByIdAsync(int drinkId);
 
         Task<IEnumerable<DrinkDto>> GetAllDrinksAsync();
+
+        Task<IEnumerable<DrinkDto>> GetDrinksByType(string type);
+        Task<IEnumerable<DrinkDto>> GetDrinksByName(string name);
+        Task<DrinkDto> EbanutPivandepala();
     }
 }

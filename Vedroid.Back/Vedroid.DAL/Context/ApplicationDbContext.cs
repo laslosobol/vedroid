@@ -8,7 +8,7 @@ namespace Vedroid.DAL.Context
         public DbSet<Drink> Drinks { get; set; }
         public DbSet<Snack> Snacks { get; set; }
 
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base()
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
             Database.EnsureCreated();
         }

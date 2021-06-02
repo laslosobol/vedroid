@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -64,6 +65,31 @@ namespace Vedroid.BLL.Services
         {
             var entity = await _unitOfWork.DrinkRepository.GetAllAsync();
             var result = entity.Select(el => DrinkMapper.Map(el)).ToList();
+
+            return result;
+        }
+
+        public async Task<DrinkDto> EbanutPivandepala()
+        {
+            var entity = await _unitOfWork.DrinkRepository.GetAllAsync();
+            var pivo = entity.Where(_ => _.Type == "Пиво");
+            var random = new Random();
+            var enumerable = pivo.ToList();
+            var num = random.Next(0, enumerable.Count - 1);
+            return DrinkMapper.Map(enumerable[num]);
+        }
+
+        public async Task<IEnumerable<DrinkDto>> GetDrinksByType(string type)
+        {
+            var entity = await _unitOfWork.DrinkRepository.GetAllAsync();
+            var result = entity.Select(_ => DrinkMapper.Map(_)).Where(_ => _.Type == type).ToList();
+
+            return result;
+        }
+        public async Task<IEnumerable<DrinkDto>> GetDrinksByName(string name)
+        {
+            var entity = await _unitOfWork.DrinkRepository.GetAllAsync();
+            var result = entity.Select(_ => DrinkMapper.Map(_)).Where(_ => _.Type == name).ToList();
 
             return result;
         }

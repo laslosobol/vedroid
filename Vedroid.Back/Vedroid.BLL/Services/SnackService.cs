@@ -65,5 +65,20 @@ namespace Vedroid.BLL.Services
 
             return result;
         }
+        
+        public async Task<IEnumerable<SnackDto>> GetSnacksByType(string type)
+        {
+            var entity = await _unitOfWork.SnackRepository.GetAllAsync();
+            var result = entity.Select(_ => SnackMapper.Map(_)).Where(_ => _.Type == type).ToList();
+
+            return result;
+        }
+        public async Task<IEnumerable<SnackDto>> GetSnacksByName(string name)
+        {
+            var entity = await _unitOfWork.SnackRepository.GetAllAsync();
+            var result = entity.Select(_ => SnackMapper.Map(_)).Where(_ => _.Type == name).ToList();
+
+            return result;
+        }
     }
 }
