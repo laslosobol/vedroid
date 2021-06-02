@@ -13,3 +13,33 @@ B:\CSharp\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.dll
 B:\CSharp\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\ref\Vedroid.DAL.dll
 B:\CSharp\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.pdb
 B:\CSharp\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.genruntimeconfig.cache
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\bin\Debug\net5.0\Vedroid.DAL.deps.json
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\bin\Debug\net5.0\Vedroid.DAL.runtimeconfig.json
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\bin\Debug\net5.0\Vedroid.DAL.runtimeconfig.dev.json
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\bin\Debug\net5.0\Vedroid.DAL.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\bin\Debug\net5.0\ref\Vedroid.DAL.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\bin\Debug\net5.0\Vedroid.DAL.pdb
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.csprojAssemblyReference.cache
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.AssemblyInfoInputs.cache
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.AssemblyInfo.cs
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.csproj.CoreCompileInputs.cache
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\ref\Vedroid.DAL.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.pdb
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.genruntimeconfig.cache
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\bin\Debug\net5.0\Vedroid.DAL.deps.json
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\bin\Debug\net5.0\Vedroid.DAL.runtimeconfig.json
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\bin\Debug\net5.0\Vedroid.DAL.runtimeconfig.dev.json
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\bin\Debug\net5.0\Vedroid.DAL.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\bin\Debug\net5.0\ref\Vedroid.DAL.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\bin\Debug\net5.0\Vedroid.DAL.pdb
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.csprojAssemblyReference.cache
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.AssemblyInfoInputs.cache
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.AssemblyInfo.cs
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.csproj.CoreCompileInputs.cache
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\ref\Vedroid.DAL.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.pdb
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.DAL\obj\Debug\net5.0\Vedroid.DAL.genruntimeconfig.cache

@@ -21,7 +21,6 @@ namespace Vedroid.Api.Tests
         public async Task GetAllDrinksTest()
         {
             using var httpClient = new HttpClient();
-
             var result = await httpClient.GetAsync("https://localhost:5001/drink/get");
             Console.WriteLine(result.Content.ReadAsStringAsync().Result);
             Assert.AreEqual(HttpStatusCode.OK, result.StatusCode);

@@ -46,3 +46,99 @@ B:\CSharp\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.dll
 B:\CSharp\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\ref\Vedroid.Api.dll
 B:\CSharp\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.pdb
 B:\CSharp\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.genruntimeconfig.cache
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\appsettings.json
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.Api.exe
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.Api.deps.json
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.Api.runtimeconfig.json
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.Api.runtimeconfig.dev.json
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.Api.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\ref\Vedroid.Api.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.Api.pdb
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Npgsql.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.BLL.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.DAL.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.BLL.pdb
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.DAL.pdb
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.csprojAssemblyReference.cache
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.AssemblyInfoInputs.cache
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.AssemblyInfo.cs
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.csproj.CoreCompileInputs.cache
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\staticwebassets\Vedroid.Api.StaticWebAssets.Manifest.cache
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\staticwebassets\Vedroid.Api.StaticWebAssets.xml
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\scopedcss\bundle\Vedroid.Api.styles.css
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.RazorTargetAssemblyInfo.cache
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.csproj.CopyComplete
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\ref\Vedroid.Api.dll
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.pdb
+D:\DORI\uni\6 семестр\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.genruntimeconfig.cache
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\appsettings.json
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.Api.exe
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.Api.deps.json
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.Api.runtimeconfig.json
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.Api.runtimeconfig.dev.json
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.Api.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\ref\Vedroid.Api.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.Api.pdb
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Npgsql.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.BLL.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.DAL.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.BLL.pdb
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\bin\Debug\net5.0\Vedroid.DAL.pdb
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.csprojAssemblyReference.cache
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.AssemblyInfoInputs.cache
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.AssemblyInfo.cs
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.csproj.CoreCompileInputs.cache
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\staticwebassets\Vedroid.Api.StaticWebAssets.Manifest.cache
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\staticwebassets\Vedroid.Api.StaticWebAssets.xml
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\scopedcss\bundle\Vedroid.Api.styles.css
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.RazorTargetAssemblyInfo.cache
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.csproj.CopyComplete
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\ref\Vedroid.Api.dll
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.pdb
+D:\DORI\uni\6year\vedroid\Vedroid.Back\Vedroid.Api\obj\Debug\net5.0\Vedroid.Api.genruntimeconfig.cache

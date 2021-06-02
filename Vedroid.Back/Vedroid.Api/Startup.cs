@@ -42,7 +42,7 @@ namespace Vedroid.Api
                 c.SwaggerDoc("v1", new OpenApiInfo {Title = "Vedroid.Api", Version = "v1"});
             });
 
-            var connectionString = "Host=localhost;Port=5432;Database=vedroid;Username=postgres;Password=sobol";
+            var connectionString = "Host=localhost;Port=5432;Database=vedroid;Username=postgres;Password=0102";
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseNpgsql(connectionString));
             services.AddScoped<IUnitOfWork, UnitOfWork>();

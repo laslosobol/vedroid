@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "B:\\CSharp\\vedroid\\Vedroid.Back\\RubeGoldberg\\RubeGoldberg.csproj": {}
+    "D:\\DORI\\uni\\6year\\vedroid\\Vedroid.Back\\RubeGoldberg\\RubeGoldberg.csproj": {}
   },
   "projects": {
-    "B:\\CSharp\\vedroid\\Vedroid.Back\\RubeGoldberg\\RubeGoldberg.csproj": {
+    "D:\\DORI\\uni\\6year\\vedroid\\Vedroid.Back\\RubeGoldberg\\RubeGoldberg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\CSharp\\vedroid\\Vedroid.Back\\RubeGoldberg\\RubeGoldberg.csproj",
+        "projectUniqueName": "D:\\DORI\\uni\\6year\\vedroid\\Vedroid.Back\\RubeGoldberg\\RubeGoldberg.csproj",
         "projectName": "RubeGoldberg",
-        "projectPath": "B:\\CSharp\\vedroid\\Vedroid.Back\\RubeGoldberg\\RubeGoldberg.csproj",
-        "packagesPath": "C:\\Users\\Sobol\\.nuget\\packages\\",
-        "outputPath": "B:\\CSharp\\vedroid\\Vedroid.Back\\RubeGoldberg\\obj\\",
+        "projectPath": "D:\\DORI\\uni\\6year\\vedroid\\Vedroid.Back\\RubeGoldberg\\RubeGoldberg.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\DORI\\uni\\6year\\vedroid\\Vedroid.Back\\RubeGoldberg\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Sobol\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

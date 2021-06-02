@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE RelativeLayout [
+        <!ELEMENT RelativeLayout (RelativeLayout|Button|View|TextView)*>
+        <!ATTLIST RelativeLayout
+                android:id CDATA #IMPLIED
+                android:layout_alignParentBottom CDATA #IMPLIED
+                android:layout_alignParentLeft CDATA #IMPLIED
+                android:layout_alignParentRight CDATA #IMPLIED
+                android:layout_centerInParent CDATA #IMPLIED
+                android:layout_height CDATA #REQUIRED
+                android:layout_width CDATA #REQUIRED
+                android:outlineProvider CDATA #IMPLIED
+                xmlns:android CDATA #IMPLIED>
+        <!ELEMENT Button (#PCDATA)>
+        <!ATTLIST Button
+                android:text CDATA #REQUIRED
+                android:layout_width CDATA #REQUIRED
+                android:layout_height CDATA #REQUIRED
+                android:onClick CDATA #REQUIRED
+                android:id CDATA #REQUIRED>
+        <!ELEMENT View (#PCDATA)>
+        <!ATTLIST View
+                android:layout_width CDATA #REQUIRED
+                android:layout_height CDATA #REQUIRED
+                android:layout_alignParentLeft CDATA #REQUIRED
+                android:layout_alignParentRight CDATA #REQUIRED
+                android:layout_alignParentTop CDATA #REQUIRED
+                android:layout_alignParentBottom CDATA #REQUIRED
+                android:background CDATA #REQUIRED>
+        <!ELEMENT TextView (#PCDATA)>
+        <!ATTLIST TextView
+                android:text CDATA #REQUIRED
+                android:layout_width CDATA #REQUIRED
+                android:layout_height CDATA #REQUIRED
+                android:id CDATA #REQUIRED
+                android:layout_alignParentEnd CDATA #REQUIRED
+                android:layout_marginEnd CDATA #REQUIRED
+                android:layout_alignParentBottom CDATA #REQUIRED
+                android:layout_marginBottom CDATA #REQUIRED>
+        ]>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:outlineProvider="background" android:id="@+id/main">
+    <RelativeLayout
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:id="@+id/btn" android:layout_centerInParent="true">
+        <Button
+                android:text="Ебануть Пивандепала"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:onClick="ButtonAction"
+                android:id="@+id/button"/>
+    </RelativeLayout>
+    <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true">
+        <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/tab_bg"
+        />
+        <TextView
+                android:text="TextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/textView" android:layout_alignParentEnd="true"
+                android:layout_marginEnd="175dp" android:layout_alignParentBottom="true"
+                android:layout_marginBottom="43dp"/>
+    </RelativeLayout>
+</RelativeLayout>

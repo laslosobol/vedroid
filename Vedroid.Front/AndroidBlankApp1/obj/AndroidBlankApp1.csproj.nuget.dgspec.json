@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DORI\\uni\\6year\\vedroid\\Vedroid.Front\\AndroidBlankApp1\\AndroidBlankApp1.csproj": {}
+  },
+  "projects": {
+    "D:\\DORI\\uni\\6year\\vedroid\\Vedroid.Front\\AndroidBlankApp1\\AndroidBlankApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DORI\\uni\\6year\\vedroid\\Vedroid.Front\\AndroidBlankApp1\\AndroidBlankApp1.csproj",
+        "projectName": "AndroidBlankApp1",
+        "projectPath": "D:\\DORI\\uni\\6year\\vedroid\\Vedroid.Front\\AndroidBlankApp1\\AndroidBlankApp1.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\DORI\\uni\\6year\\vedroid\\Vedroid.Front\\AndroidBlankApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
